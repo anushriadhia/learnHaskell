@@ -6,7 +6,7 @@ module GameStructure(
     setStates,
     getStates,
     getNeighbors
-)
+) where
 
 --are the import statements supposed to go in the module or in main file?
 import Data.List
