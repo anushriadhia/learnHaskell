@@ -1,4 +1,8 @@
-import GameStructre
+module Rules(
+    nextGameboard
+) where
+
+import GameStructure
 
 nextGameBoard :: GameBoard -> GameBoard
 nextGameBoard board = 
